@@ -9,6 +9,6 @@ You can download and paste it into this path:
 * Note: Create a folder called 'arc' in lib folder if it doesn't exist.
 
 ``` bash
-mkdir -p /Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/arc/
-cp *.a /Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/arc/
+mkdir -p /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/arc/
+cp *.a /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/arc/
 ```
